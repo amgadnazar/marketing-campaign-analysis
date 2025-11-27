@@ -35,7 +35,7 @@ The project includes:
     │
     ├── marketing_powerbi_ready.csv
     ├── marketing_dashboard.pbix
-    ├── marketing_dashboard.png
+    ├── marketing_dashboard.jpg
     ├── analysis.ipynb
     └── README.md
 
@@ -76,7 +76,7 @@ The dashboard includes:
 
 ## Power BI Dashboard
 
-![Marketing Dashboard](marketing_dashboard.png)
+![Marketing Dashboard](marketing_dashboard.jpg)
 
 ### **Insights Summary**
 
