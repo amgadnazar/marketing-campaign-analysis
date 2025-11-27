@@ -38,13 +38,19 @@ CSV Dataset
 GitHub for project hosting
 
 📂 Project Structure
+
 marketing-campaign-analysis/
-│
+
 ├── marketing_powerbi_ready.csv
+
 ├── marketing_dashboard.pbix
+
 ├── marketing_dashboard.png
+
 ├── analysis.ipynb  (Jupyter Notebook)
+
 └── README.md
+
 
 🧮 KPIs Calculated in Python
 
@@ -143,3 +149,4 @@ Python • Power BI • Data Visualization
 ⭐ If you like this project
 
 Give the repository a ⭐ on GitHub and connect with me on LinkedIn!
+
