@@ -74,6 +74,10 @@ The dashboard includes:
 -   **CTR Trend by Age Group**\
 -   **Spend vs Approved Conversions per Campaign**
 
+## Power BI Dashboard
+
+![Marketing Dashboard](marketing_dashboard.png)
+
 ### **Insights Summary**
 
 -   Age group **30--34** performs best with the lowest CPA\
