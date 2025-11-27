@@ -1,9 +1,9 @@
-# 📊 Marketing Campaign Analysis --- Power BI & Python
+# Marketing Campaign Analysis --- Power BI & Python
 
 *A complete end-to-end data analysis project using Python, Pandas, and
 Power BI.*
 
-## 📁 Project Overview
+## Project Overview
 
 This project analyzes the performance of multiple marketing campaigns
 using a real advertising dataset.\
@@ -21,7 +21,7 @@ The project includes:
 -   Insights derived from CTR, CPC, CPM, and CPA metrics\
 -   Exported dashboards and conclusions
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 -   **Python** (Pandas, NumPy)
 -   **Jupyter Notebook**
@@ -29,7 +29,7 @@ The project includes:
 -   **CSV Dataset**
 -   **GitHub** for project hosting
 
-## 📂 Project Structure
+## Project Structure
 
     marketing-campaign-analysis/
     │
@@ -39,7 +39,7 @@ The project includes:
     ├── analysis.ipynb
     └── README.md
 
-## 🧮 KPIs Calculated in Python
+## KPIs Calculated in Python
 
 **Click-Through Rate (CTR)**\
 `CTR = Clicks / Impressions`
@@ -56,7 +56,7 @@ The project includes:
 These KPIs were added to the dataset and exported for Power BI
 visualization.
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 The dashboard includes:
 
@@ -82,7 +82,7 @@ The dashboard includes:
 -   Several campaigns spent money but produced **zero conversions**\
 -   CTR increases with age, but conversion rate does not
 
-## 📥 Dataset
+## Dataset
 
 The dataset contains the following key fields: - `ad_id`\
 - `fb_campaign_id`\
@@ -95,7 +95,7 @@ The dataset contains the following key fields: - `ad_id`\
 - `Approved_Conversion`\
 - Added KPIs: CTR, CPC, CPM, CPA
 
-## 🎯 Key Takeaways
+## Key Takeaways
 
 -   Younger audiences (30--34) are the most cost-effective target
     group.\
@@ -105,12 +105,15 @@ The dataset contains the following key fields: - `ad_id`\
 -   Some campaigns need budget reallocation to avoid wasted spend.\
 -   Data-driven decisions can significantly improve marketing ROI.
 
-## 🧑‍💻 Author
+## Author
 
 **Amjad Nazar**\
 Data & Marketing Analyst\
 Python • Power BI • Data Visualization
 
-## ⭐ If you like this project
+## If you like this project
 
 Give the repository a ⭐ on GitHub and connect with me on LinkedIn!
+
+## Portfolio
+https://amgadnazar.github.io/
